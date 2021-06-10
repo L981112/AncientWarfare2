@@ -99,6 +99,14 @@
             "item": {"name": "minecraft:air"}
         },
         {
+            "block": {"name": "ancientwarfarestructure:gate_proxy"},
+            "item": {"name": "minecraft:air"}
+        },
+        {
+            "block": {"name": "ancientwarfarestructure:advanced_spawner"},
+            "item": {"name": "minecraft:air"}
+        },
+        {
             "block": {"name": "ancientwarfarestructure:golden_idol"},
             "item": {"name": "minecraft:gold_ingot"}
         },
@@ -133,6 +141,38 @@
         {
             "block": {"name": "minecraft:double_stone_slab", "properties": {"variant": "wood_old"}},
             "item": {"name": "minecraft:planks"}
+        },
+        {
+            "block": {"name": "ancientwarfarestructure:dirt"},
+            "item": {"name": "minecraft:air"}
+        },
+        {
+            "block": {"name": "ancientwarfarestructure:grass"},
+            "item": {"name": "minecraft:air"}
+        },
+        {
+            "block": {"name": "ancientwarfarestructure:grass_path"},
+            "item": {"name": "minecraft:air"}
+        },
+        {
+            "block": {"name": "ancientwarfarestructure:deadbush"},
+            "item": {"name": "minecraft:air"}
+        },
+        {
+            "block": {"name": "ancientwarfarestructure:vine"},
+            "item": {"name": "minecraft:air"}
+        },
+        {
+            "block": {"name": "ancientwarfarestructure:tallgrass"},
+            "item": {"name": "minecraft:air"}
+        },
+        {
+            "block": {"name": "ancientwarfarestructure:farmland"},
+            "item": {"name": "minecraft:air"}
+        },
+        {
+            "block": {"name": "ancientwarfarestructure:double_plant", "data": 2},
+            "item": {"name": "minecraft:air"}
         }
     ],
     "block_passes": [
